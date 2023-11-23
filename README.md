@@ -1,7 +1,7 @@
 Rust Snippets Repo 
 =================================================
 
-Repo of rust code scraps, come work some might not. 
+Repo of rust code scraps, some work some might not. 
 
 
 
